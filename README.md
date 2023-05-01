@@ -1,10 +1,10 @@
 
-Project-:  Monitoring and Control of HVAC System in Pharmaceutical Cleanroom
+**Project**-:  Monitoring and Control of HVAC System in Pharmaceutical Cleanroom
 
-Background:
+**Background**:
 A pharmaceutical company runs a cleanroom facility where medicines and other highly sensitive items are produced. The cleanroom's HVAC system is essential for maintaining the necessary levels of humidity, temperature, and air quality. However, the company pays high energy costs as a result of the HVAC system's inefficient operation, and the inconsistent environmental conditions are endangering the product quality.
 
-Goals:
+**Goals**:
 
 Real-time monitoring of HVAC system performance to ensure consistent environmental conditions in the cleanroom.
 Real-time control of the HVAC system to maintain the required temperature, humidity, and air quality levels.
