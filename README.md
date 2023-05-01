@@ -14,7 +14,7 @@ Performance table - stores real-time data about the HVAC system's performance, i
 Setpoints table - stores the setpoints for the temperature, humidity, and air quality levels in the cleanroom.
 Control table - stores real-time control signals for the HVAC system, including the control mode, fan speed, and temperature setpoint.
 
-
+**SQL Queries**
 
 -->Create Equipment Table
 create table Equipment(
